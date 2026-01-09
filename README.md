@@ -1,4 +1,3 @@
----
 # AUTOMATED AI PROMPTS
 
 A common problem I have with AI models is their tendency to be overly verbose and to generate unnecessary `.md` files that bloat a codebase and quietly waste tokens over time. It honestly drives me mad. To avoid this, I wrote a small set of shell functions that generate a custom `instructions.md` file to explicitly control how an LLM behaves in a given folder or project.
