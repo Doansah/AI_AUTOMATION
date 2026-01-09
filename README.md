@@ -1,4 +1,4 @@
-# AUTOMATED AI PROMPTS
+# Automating AI_Instructions 
 
 A common problem I have with AI models is their tendency to be overly verbose and to generate unnecessary `.md` files that bloat a codebase and quietly waste tokens over time. It honestly drives me mad. To avoid this, I wrote a small set of shell functions that generate a custom `instructions.md` file to explicitly control how an LLM behaves in a given folder or project.
 
@@ -72,8 +72,12 @@ Careful, step-by-step product explainer.
 
 ## Helper Functions & More
 
-I've also added a init_ai_help() function, if you'd like to view all the configuration options in the terminal.
 
-I actually use these in in my ZSH Config, but I've ported it over here to not bloat that readme. If you want to have a fly shell config check it out.
 
-Guys, don't waste your tokens.
+1) I've also added a init_ai_help() function, if you'd like to view all the configuration options in the terminal.
+
+2) I actually use these in in my ZSH Config, but I've ported it over here to not bloat that readme. If you want to have a fly shell config check it out.
+
+3) If you'd like to see the prompts themselves view the `prompt.txt` file. 
+
+4) Guys, don't waste your tokens.
