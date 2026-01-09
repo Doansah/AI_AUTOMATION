@@ -76,7 +76,7 @@ Careful, step-by-step product explainer.
 
 1) I've also added a init_ai_help() function, if you'd like to view all the configuration options in the terminal.
 
-2) I actually use these in in my ZSH Config, but I've ported it over here to not bloat that readme. If you want to have a fly shell config [check it out] (https://github.com/Doansah/shell-config).
+2) I actually use these in in my ZSH Config, but I've ported it over here to not bloat that readme. If you want to have a fly shell config [check it out](https://github.com/Doansah/shell-config).
 
 3) If you'd like to see the prompts themselves view the `prompt.txt` file. 
 
